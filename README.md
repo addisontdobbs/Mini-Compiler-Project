@@ -55,5 +55,3 @@ sudo apt install flex bison gcc
 
 This matches the compile and run flow shown in the report’s integration section. 
 
-
-This matches the compile and run flow shown in the report’s integration section. 
