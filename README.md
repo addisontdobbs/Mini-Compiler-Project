@@ -41,12 +41,19 @@ print x;
 **If `make` doesn’t work: install dependencies**
 
 * macOS:
-brew install flex bison gcc
 
+```bash
+brew install flex bison gcc
+```
 
 * Ubuntu:
+
+```bash
 sudo apt update
 sudo apt install flex bison gcc
+```
+
+This matches the compile and run flow shown in the report’s integration section. 
 
 
 This matches the compile and run flow shown in the report’s integration section. 
